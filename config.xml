@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.github.kuroyukidev.digicybersleuthevos" version="1.8.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="io.github.digidexvos" version="1.8.8" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>DigiDex Evos</name>
     <description>
         Digivolution Data for the Digimon Story: Cyber Sleuth game for PS Vita in the palm of your hand!
